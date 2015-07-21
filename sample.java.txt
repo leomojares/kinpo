@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rock n roll to the world to the max
+=======
+rock n roll to the world
+>>>>>>> fd8667bf17258299a1cc851553f936178fd80691
